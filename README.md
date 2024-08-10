@@ -16,6 +16,7 @@ Screenshot 2024-06-22 at 10 46 03 AM
 Requirements Specification
 Steps to Complete the Project
 Requirements Specification
+![image](https://github.com/user-attachments/assets/05a00495-05d8-432b-a2c5-af6f96ef0da5)
 
 Create a requirements.txt file to list the required libraries.
 Install the required libraries.
